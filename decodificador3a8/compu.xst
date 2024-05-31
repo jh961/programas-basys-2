@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/JAIME DIAZ/Desktop/PROGRAMAS BASYS 2/decodificador3a8/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/JAIME DIAZ/Desktop/PROGRAMAS BASYS 2/decodificador3a8/xst"
+elaborate
+-ifn compu.prj
+-ifmt mixed

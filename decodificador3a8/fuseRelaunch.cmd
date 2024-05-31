@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/JAIME DIAZ/Desktop/PROGRAMAS BASYS 2/decodificador3a8/simuladeco_isim_beh.exe" -prj "C:/Users/JAIME DIAZ/Desktop/PROGRAMAS BASYS 2/decodificador3a8/simuladeco_beh.prj" "work.simuladeco" 
